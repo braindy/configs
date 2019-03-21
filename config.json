@@ -90,5 +90,9 @@
     "LevelUpRewardMultiplier": 1.2,
 
     "InstantlyProfitBonusCooldown": 300,
-    "InstantlyProfitBonusSummationTime": 300
+    "InstantlyProfitBonusSummationTime": 300,
+
+    "SwipeMultiplierIncRate": 2.5,
+    "SwipeMultiplierMax": 5,
+    "SwipeMultiplierDecreaseRate": 3
 }
