@@ -109,5 +109,7 @@
 
     "SwipeMultiplierIncRate": 10,
     "SwipeMultiplierMax": 3.5,
-    "SwipeMultiplierDecreaseRate": 3
+    "SwipeMultiplierDecreaseRate": 3,
+    
+    "OfflineProfitAccumulationPeriod": 15
 }
