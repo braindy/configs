@@ -108,6 +108,6 @@
     "InstantlyProfitBonusSummationTime": 180,
 
     "SwipeMultiplierIncRate": 10,
-    "SwipeMultiplierMax": 5,
+    "SwipeMultiplierMax": 3,
     "SwipeMultiplierDecreaseRate": 3
 }
