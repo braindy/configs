@@ -102,7 +102,7 @@
     "ExpToNextLevelConstant": 100,
     "ExpToNextLevelMultiplier": 1.4,
     "LevelUpRewardConstant": 1250,
-    "LevelUpRewardMultiplier": 1.5,
+    "LevelUpRewardMultiplier": 1.7,
 
     "InstantlyProfitBonusCooldown": 120,
     "InstantlyProfitBonusSummationTime": 300,
