@@ -116,5 +116,7 @@
     "ExtraProfitBonusDuration": 5,
     "ExtraSpeedBonusDuration": 3,
     "ExtraSpeedBonusIconVisibilityDuration": 30,
-    "ExtraSpeedBonusIconVisibilityShowingInterval": "2.0,4.0"
+    "ExtraSpeedBonusIconVisibilityShowingInterval": "2.0,4.0",
+    
+    "FloorUpgradePriceMultiplier": 1.1
 }
