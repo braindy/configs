@@ -111,5 +111,8 @@
     "SwipeMultiplierMax": 3.5,
     "SwipeMultiplierDecreaseRate": 3,
     
-    "OfflineProfitAccumulationPeriod": 30
+    "OfflineProfitAccumulationPeriod": 30,
+    
+    "ExtraProfitBonusDuration": 5,
+    "ExtraSpeedBonusDuration": 5
 }
