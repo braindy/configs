@@ -114,5 +114,7 @@
     "OfflineProfitAccumulationPeriod": 30,
     
     "ExtraProfitBonusDuration": 5,
-    "ExtraSpeedBonusDuration": 5
+    "ExtraSpeedBonusDuration": 5,
+    "ExtraSpeedBonusIconVisibilityDuration": 10,
+    "ExtraSpeedBonusIconVisibilityShowingInterval": "2.0,5.0"
 }
