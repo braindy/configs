@@ -99,8 +99,8 @@
         3
     ],
     "FloorMaxLevel": 20,
-    "ExpToNextLevelConstant": 100,
-    "ExpToNextLevelMultiplier": 1.3,
+    "ExpToNextLevelConstant": 75,
+    "ExpToNextLevelMultiplier": 1.4,
     "LevelUpRewardConstant": 1000,
     "LevelUpRewardMultiplier": 1.65,
 
