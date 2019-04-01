@@ -99,19 +99,19 @@
         3
     ],
     "FloorMaxLevel": 20,
-    "ExpToNextLevelConstant": 75,
+    "ExpToNextLevelConstant": 50,
     "ExpToNextLevelMultiplier": 1.3,
     "LevelUpRewardConstant": 1250,
     "LevelUpRewardMultiplier": 1.7,
 
     "InstantlyProfitBonusCooldown": 120,
-    "InstantlyProfitBonusSummationTime": 300,
+    "InstantlyProfitBonusSummationTime": 240,
 
     "SwipeMultiplierIncRate": 10,
     "SwipeMultiplierMax": 3.5,
     "SwipeMultiplierDecreaseRate": 3,
     
-    "OfflineProfitAccumulationPeriod": 30,
+    "OfflineProfitAccumulationPeriod": 25,
     
     "ExtraProfitBonusDuration": 5,
     "ExtraSpeedBonusDuration": 3,
