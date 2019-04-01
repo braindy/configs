@@ -101,7 +101,7 @@
     "FloorMaxLevel": 20,
     "ExpToNextLevelConstant": 50,
     "ExpToNextLevelMultiplier": 1.3,
-    "LevelUpRewardConstant": 1250,
+    "LevelUpRewardConstant": 1000,
     "LevelUpRewardMultiplier": 1.7,
 
     "InstantlyProfitBonusCooldown": 120,
