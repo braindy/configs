@@ -118,5 +118,7 @@
     "ExtraSpeedBonusIconVisibilityDuration": 30,
     "ExtraSpeedBonusIconVisibilityShowingInterval": "2.0,4.0",
     
-    "FloorUpgradePriceMultiplier": 1.15
+    "FloorUpgradePriceMultiplier": 1.15,
+
+    "DefaultFlourCount": 100
 }
