@@ -1,0 +1,25 @@
+{
+    "flourPerSecConstant": 20,
+    "flourPerSecMultipilier": 1.2,
+    "upgradePriceConstant": 5000,
+    "upgradePriceMultiplier": 1.3,
+    "millCapacity" : [
+        0,
+        1000,
+        2500,
+        7500,
+        22500,
+        67500,
+        202500,
+        607500,
+        1822500,
+        5467500,
+        16402500,
+        49207500,
+        147622500,
+        442867500,
+        1328602500,
+        3985807500
+    ],
+    "tempStorageFillingTime": 3
+}
