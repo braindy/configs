@@ -75,10 +75,15 @@
     "ResetPriceMultipliers": [
         1,
         2,
-        2.5,
+        2,
         3,
-        3.5,
-        4
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5
     ],
     "OffersForFloorUnlock": [
         0,
@@ -118,7 +123,7 @@
     "ExtraSpeedBonusIconVisibilityDuration": 30,
     "ExtraSpeedBonusIconVisibilityShowingInterval": "2.0,4.0",
     
-    "FloorUpgradePriceMultiplier": 1.15,
+    "FloorUpgradePriceMultiplier": 1.2,
 
     "DefaultFlourCount": 100
 }
