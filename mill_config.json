@@ -1,5 +1,5 @@
 {
-    "flourPerSecConstant": 20,
+    "flourPerSecConstant": 10,
     "flourPerSecMultipilier": 1.2,
     "upgradePriceConstant": 5000,
     "upgradePriceMultiplier": 1.3,
