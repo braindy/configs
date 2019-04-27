@@ -2,7 +2,7 @@
     "flourPerSecConstant": 12,
     "flourPerSecMultipilier": 1.125,
     "upgradePriceConstant": 10000,
-    "upgradePriceMultiplier": 1.5,
+    "upgradePriceMultiplier": 1.8,
     "millCapacity" : [
         0,
         200,
