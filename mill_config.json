@@ -26,5 +26,7 @@
     "InteractionToFlourProfitMult": 2,
     "InstantFlourProfitBonusCooldownInterval": "50,60",
     "InstantFlourProfitBonusStandingTime": 20,
-    "InstantFlourProfitPercent": 50
+    "InstantFlourProfitPercent": 50,
+    
+    "flourProductionLinearMult": 3.472
 }
