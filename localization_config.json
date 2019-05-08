@@ -1,7 +1,7 @@
 {
     "tutor_step_floor_unlock": {
         "en": "Let’s bake\nsome stuff!\n\nUnlock the\nfloor",
-        "ru": "***"
+        "ru": "Давай что-нибудь испечем! Разблокируй этаж!"
     },
     "tutor_step_accelerate_production": {
         "en": "Swipe to\naccelerate\nthe\nproduction!",
@@ -9,48 +9,48 @@
     },
     "tutor_step_upgrade_floor": {
         "en": "Upgrade your\noven\nto increase\nyour profits!",
-        "ru": "***"
+        "ru": "Улучши духовку чтобы увеличить доход!"
     },
     "tutor_step_level_up": {
         "en": "Level up\nand enjoy\nextra profits",
-        "ru": "***"
+        "ru": "Увеличь свой уровень и получи бонус!"
     },
     "tutor_step_upgrade_main_floor": {
         "en": "Upgrade your\nstove to\nunlock new\nproduction\nlines!",
-        "ru": "***"
+        "ru": "Улучши печку чтобы открыть новые этажи!"
     },
     "tutor_step_bonus": {
         "en": "Enjoy the\nbonuses\nto boost your\nprofits and speed!",
-        "ru": "***"
+        "ru": "Используй бустеры, чтобы увеличить доходы и ускорить производство!"
     },
     "tutor_step_mill_using_0": {
         "en": "Make sure you\nhave enough flour\nfor bakery! Run\nyour Windmill\nefficiently!",
-        "ru": "***"
+        "ru": "Следи за наличием муки! Чем больше запасы, тем выше доходы!"
     },
     "tutor_step_mill_using_1": {
         "en": "Spin the sails\nof the windmill\nto accelerate the\nflour production",
-        "ru": "***"
+        "ru": "Вращай лопасти мельницы чтобы ускорить производство муки"
     },
     "tutor_step_reset": {
         "en": "You may reset\nyour production\nline to double\nyour profits!",
-        "ru": "***"
+        "ru": "Перезапусти производство и удвой доходы!"
     },
 
     "max_level_reached": {
         "en": "Max level",
-        "ru": "***"
+        "ru": "Достигнут максимальный уровень"
     },
     "level": {
         "en": "Level",
-        "ru": "***"
+        "ru": "Уровень"
     },
     "plus_flour": {
         "en": "+%val% flour",
-        "ru": "***"
+        "ru": "+%val% муки"
     },
     "player_level_required": {
         "en": "player level %val% required",
-        "ru": "***"
+        "ru": "Необходим уровень игрока %val%"
     },
     "video_offers_left": {
         "en": "Watch %val% video",
@@ -58,100 +58,100 @@
     },
     "new_player_level": {
         "en": "New level %val%",
-        "ru": "***"
+        "ru": "Новый уровень игрока %val%"
     },
     "instant_profit_bonus": {
         "en": "Watch video\nfor $%val%",
-        "ru": "***"
+        "ru": "Посмотри видео\за $%val%"
     },
     "instant_flour_bonus": {
         "en": "+%val%%\nflour",
-        "ru": "***"
+        "ru": "+%val%%\nмуки"
     },
     "upgrade_action": {
         "en": "Upgrade",
-        "ru": "***"
+        "ru": "Улучши"
     },
     "reset_floor_action": {
         "en": "RESET\nFLOOR",
-        "ru": "***"
+        "ru": "ПЕРЕЗАПУСК"
     },
     "not_enough_money": {
         "en": "Not enough money",
-        "ru": "***"
+        "ru": "Недостаточно средств"
     },
     "plus_profit": {
         "en": "+$%val% profit",
-        "ru": "***"
+        "ru": "+$%val% дохода"
     },
     "more_flour_needed": {
         "en": "more flour\nneeded",
-        "ru": "***"
+        "ru": "необходимо больше муки"
     },
     "get_button": {
         "en": "Get",
-        "ru": "***"
+        "ru": "Получить"
     },
     "reward": {
         "en": "reward:",
-        "ru": "***"
+        "ru": "Награда:"
     },
     "or": {
         "en": "or",
-        "ru": "***"
+        "ru": "или"
     },
     "watch_video_for_x2": {
         "en": "Watch video for x2",
-        "ru": "***"
+        "ru": "Посмотри видео за х2"
     },
     "buy_button": {
         "en": "Buy",
-        "ru": "***"
+        "ru": "Купить"
     },
     "unlock_floor_window_label": {
         "en": "UNLOCK FLOOR",
-        "ru": "***"
+        "ru": "РАЗБЛОКИРОВАТЬ ЭТАЖ"
     },
     "reset_floor_window_label": {
         "en": "RESET FLOOR",
-        "ru": "***"
+        "ru": "Перезапустить этаж"
     },
     "reset_floor_text": {
         "en": "watch video for\nfloor level reset\nand x2 profit",
-        "ru": "***"
+        "ru": "Посмотри видео чтобы перезапустить этаж и удвоить прибыль"
     },
     "watch_video": {
         "en": "Watch video",
-        "ru": "***"
+        "ru": "Посмотри видео"
     },
     "double_profit_window_label": {
         "en": "DOUBLE PROFIT",
-        "ru": "***"
+        "ru": "ДВОЙНАЯ ПРИБЫЛЬ"
     },
     "double_speed_window_label": {
         "en": "DOUBLE SPEED",
-        "ru": "***"
+        "ru": "УДВОЕННАЯ СКОРОСТЬ"
     },
     "minutes": {
         "en": "%val% min",
-        "ru": "***"
+        "ru": "%val% мин"
     },
     "hours_24": {
         "en": "24 hours",
-        "ru": "***"
+        "ru": "24 часа"
     },
     "hours_48": {
         "en": "48 hours",
-        "ru": "***"
+        "ru": "48 часов"
     },
     "offline_profit_window_label": {
         "en": "OFFLINE PROFIT",
-        "ru": "***"
+        "ru": "ПРИБЫЛЬ В ОФФЛАЙНЕ"
     },
 
     "product_1_name": {
         "en": "Bun",
-        "ru": "***"
+        "ru": "Булка"
     },
     "product_2_name": {
         "en": "Bread",
@@ -195,24 +195,24 @@
     },
     "product_12_name": {
         "en": "Chocolate cake",
-        "ru": "***"
+        "ru": "Шоколадный торт"
     },
     "product_13_name": {
         "en": "Cheese cake",
-        "ru": "***"
+        "ru": "Чизкейк"
     },
     "product_14_name": {
         "en": "Tiramisu",
-        "ru": "***"
+        "ru": "Тирамису"
     },
     "product_15_name": {
         "en": "Birthday cake",
-        "ru": "***"
+        "ru": "Праздничный торт"
     },
 
     "activate_bonus": {
         "en": "ACTIVATE",
-        "ru": "***"
+        "ru": "АКТИВИРОВАТЬ"
     }
     
 
