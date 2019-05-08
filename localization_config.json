@@ -213,6 +213,11 @@
     "activate_bonus": {
         "en": "ACTIVATE",
         "ru": "ВКЛЮЧИТЬ"
+    },
+    
+    "unlock_button": {
+        "en": "UNLOCK",
+        "ru": "ОТКРЫТЬ"
     }
     
 
