@@ -5,7 +5,7 @@
     },
     "tutor_step_accelerate_production": {
         "en": "Swipe to\naccelerate\nthe\nproduction!",
-        "ru": "***"
+        "ru": "Проведи пальцем налево чтобы ускорить производство"
     },
     "tutor_step_upgrade_floor": {
         "en": "Upgrade your\noven\nto increase\nyour profits!",
@@ -54,7 +54,7 @@
     },
     "video_offers_left": {
         "en": "Watch %val% video",
-        "ru": "***"
+        "ru": "Посмотри %val% видео"
     },
     "new_player_level": {
         "en": "New level %val%",
@@ -62,7 +62,7 @@
     },
     "instant_profit_bonus": {
         "en": "Watch video\nfor $%val%",
-        "ru": "Посмотри видео\за $%val%"
+        "ru": "Посмотри видео\nза $%val%"
     },
     "instant_flour_bonus": {
         "en": "+%val%%\nflour",
@@ -86,7 +86,7 @@
     },
     "more_flour_needed": {
         "en": "more flour\nneeded",
-        "ru": "необходимо больше муки"
+        "ru": "необходимо\n больше муки"
     },
     "get_button": {
         "en": "Get",
@@ -114,11 +114,11 @@
     },
     "reset_floor_window_label": {
         "en": "RESET FLOOR",
-        "ru": "Перезапустить этаж"
+        "ru": "ПЕРЕЗАПУСК"
     },
     "reset_floor_text": {
         "en": "watch video for\nfloor level reset\nand x2 profit",
-        "ru": "Посмотри видео чтобы перезапустить этаж и удвоить прибыль"
+        "ru": "Посмотри видео\n чтобы перезапустить\n этаж и удвоить прибыль"
     },
     "watch_video": {
         "en": "Watch video",
@@ -155,43 +155,43 @@
     },
     "product_2_name": {
         "en": "Bread",
-        "ru": "***"
+        "ru": "Хлеб"
     },
     "product_3_name": {
         "en": "Cake",
-        "ru": "***"
+        "ru": "Кекс"
     },
     "product_4_name": {
         "en": "Loaf",
-        "ru": "***"
+        "ru": "Круглый хлеб"
     },
     "product_5_name": {
         "en": "Rye bread",
-        "ru": "***"
+        "ru": "Ржаной хлеб"
     },
     "product_6_name": {
         "en": "Long loaf",
-        "ru": "***"
+        "ru": "Батон"
     },
     "product_7_name": {
         "en": "Baguette",
-        "ru": "***"
+        "ru": "Багет"
     },
     "product_8_name": {
         "en": "Croissant",
-        "ru": "***"
+        "ru": "Круассан"
     },
     "product_9_name": {
         "en": "Cupcake",
-        "ru": "***"
+        "ru": "Капкейк"
     },
     "product_10_name": {
         "en": "Donut",
-        "ru": "***"
+        "ru": "Пончик"
     },
     "product_11_name": {
         "en": "Cherry pie",
-        "ru": "***"
+        "ru": "Ягодный пирог"
     },
     "product_12_name": {
         "en": "Chocolate cake",
