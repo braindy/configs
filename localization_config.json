@@ -1,0 +1,222 @@
+{
+    "tutor_step_floor_unlock": {
+        "en": "Let’s bake\nsome stuff!\n\nUnlock the\nfloor",
+        "ru": "***"
+    },
+    "tutor_step_accelerate_production": {
+        "en": "Swipe to\naccelerate\nthe\nproduction!",
+        "ru": "***"
+    },
+    "tutor_step_upgrade_floor": {
+        "en": "Upgrade your\noven\nto increase\nyour profits!",
+        "ru": "***"
+    },
+    "tutor_step_level_up": {
+        "en": "Level up\nand enjoy\nextra profits",
+        "ru": "***"
+    },
+    "tutor_step_upgrade_main_floor": {
+        "en": "Upgrade your\nstove to\nunlock new\nproduction\nlines!",
+        "ru": "***"
+    },
+    "tutor_step_bonus": {
+        "en": "Enjoy the\nbonuses\nto boost your\nprofits and speed!",
+        "ru": "***"
+    },
+    "tutor_step_mill_using_0": {
+        "en": "Make sure you\nhave enough flour\nfor bakery! Run\nyour Windmill\nefficiently!",
+        "ru": "***"
+    },
+    "tutor_step_mill_using_1": {
+        "en": "Spin the sails\nof the windmill\nto accelerate the\nflour production",
+        "ru": "***"
+    },
+    "tutor_step_reset": {
+        "en": "You may reset\nyour production\nline to double\nyour profits!",
+        "ru": "***"
+    },
+
+    "max_level_reached": {
+        "en": "Max level",
+        "ru": "***"
+    },
+    "level": {
+        "en": "Level",
+        "ru": "***"
+    },
+    "plus_flour": {
+        "en": "+%val% flour",
+        "ru": "***"
+    },
+    "player_level_required": {
+        "en": "player level %val% required",
+        "ru": "***"
+    },
+    "video_offers_left": {
+        "en": "Watch %val% video",
+        "ru": "***"
+    },
+    "new_player_level": {
+        "en": "New level %val%",
+        "ru": "***"
+    },
+    "instant_profit_bonus": {
+        "en": "Watch video\nfor $%val%",
+        "ru": "***"
+    },
+    "instant_flour_bonus": {
+        "en": "+%val%%\nflour",
+        "ru": "***"
+    },
+    "upgrade_action": {
+        "en": "Upgrade",
+        "ru": "***"
+    },
+    "reset_floor_action": {
+        "en": "RESET\nFLOOR",
+        "ru": "***"
+    },
+    "not_enough_money": {
+        "en": "Not enough money",
+        "ru": "***"
+    },
+    "plus_profit": {
+        "en": "+$%val% profit",
+        "ru": "***"
+    },
+    "more_flour_needed": {
+        "en": "more flour\nneeded",
+        "ru": "***"
+    },
+    "get_button": {
+        "en": "Get",
+        "ru": "***"
+    },
+    "reward": {
+        "en": "reward:",
+        "ru": "***"
+    },
+    "or": {
+        "en": "or",
+        "ru": "***"
+    },
+    "watch_video_for_x2": {
+        "en": "Watch video for x2",
+        "ru": "***"
+    },
+    "buy_button": {
+        "en": "Buy",
+        "ru": "***"
+    },
+    "unlock_floor_window_label": {
+        "en": "UNLOCK FLOOR",
+        "ru": "***"
+    },
+    "reset_floor_window_label": {
+        "en": "RESET FLOOR",
+        "ru": "***"
+    },
+    "reset_floor_text": {
+        "en": "watch video for\nfloor level reset\nand x2 profit",
+        "ru": "***"
+    },
+    "watch_video": {
+        "en": "Watch video",
+        "ru": "***"
+    },
+    "double_profit_window_label": {
+        "en": "DOUBLE PROFIT",
+        "ru": "***"
+    },
+    "double_speed_window_label": {
+        "en": "DOUBLE SPEED",
+        "ru": "***"
+    },
+    "minutes": {
+        "en": "%val% min",
+        "ru": "***"
+    },
+    "hours_24": {
+        "en": "24 hours",
+        "ru": "***"
+    },
+    "hours_48": {
+        "en": "48 hours",
+        "ru": "***"
+    },
+    "offline_profit_window_label": {
+        "en": "OFFLINE PROFIT",
+        "ru": "***"
+    },
+
+    "product_1_name": {
+        "en": "Bun",
+        "ru": "***"
+    },
+    "product_2_name": {
+        "en": "Bread",
+        "ru": "***"
+    },
+    "product_3_name": {
+        "en": "Cake",
+        "ru": "***"
+    },
+    "product_4_name": {
+        "en": "Loaf",
+        "ru": "***"
+    },
+    "product_5_name": {
+        "en": "Rye bread",
+        "ru": "***"
+    },
+    "product_6_name": {
+        "en": "Long loaf",
+        "ru": "***"
+    },
+    "product_7_name": {
+        "en": "Baguette",
+        "ru": "***"
+    },
+    "product_8_name": {
+        "en": "Croissant",
+        "ru": "***"
+    },
+    "product_9_name": {
+        "en": "Cupcake",
+        "ru": "***"
+    },
+    "product_10_name": {
+        "en": "Donut",
+        "ru": "***"
+    },
+    "product_11_name": {
+        "en": "Cherry pie",
+        "ru": "***"
+    },
+    "product_12_name": {
+        "en": "Chocolate cake",
+        "ru": "***"
+    },
+    "product_13_name": {
+        "en": "Cheese cake",
+        "ru": "***"
+    },
+    "product_14_name": {
+        "en": "Tiramisu",
+        "ru": "***"
+    },
+    "product_15_name": {
+        "en": "Birthday cake",
+        "ru": "***"
+    },
+
+    "activate_bonus": {
+        "en": "ACTIVATE",
+        "ru": "***"
+    }
+    
+
+    
+    
+    
+}
