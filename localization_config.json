@@ -218,8 +218,11 @@
     "unlock_button": {
         "en": "UNLOCK",
         "ru": "ОТКРЫТЬ"
+    },
+    "per_sec_postfix": {
+        "en": "/S",
+        "ru": "/с"
     }
-    
 
     
     
