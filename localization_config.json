@@ -1,39 +1,39 @@
 {
     "tutor_step_floor_unlock": {
         "en": "Let’s bake\nsome stuff!\n\nUnlock the\nfloor",
-        "ru": "Давай что-нибудь испечем! Разблокируй этаж!"
+        "ru": "Давай \nчто-нибудь испечем!\nРазблокируй этаж!"
     },
     "tutor_step_accelerate_production": {
         "en": "Swipe to\naccelerate\nthe\nproduction!",
-        "ru": "Проведи пальцем налево чтобы ускорить производство"
+        "ru": "Проведи \nпальцем налево\n чтобы ускорить\nпроизводство"
     },
     "tutor_step_upgrade_floor": {
         "en": "Upgrade your\noven\nto increase\nyour profits!",
-        "ru": "Улучши духовку чтобы увеличить доход!"
+        "ru": "Улучши духовку\nчтобы увеличить\nдоход!"
     },
     "tutor_step_level_up": {
         "en": "Level up\nand enjoy\nextra profits",
-        "ru": "Увеличь свой уровень и получи бонус!"
+        "ru": "Увеличь\nсвой уровень\nи получи бонус!"
     },
     "tutor_step_upgrade_main_floor": {
         "en": "Upgrade your\nstove to\nunlock new\nproduction\nlines!",
-        "ru": "Улучши печку чтобы открыть новые этажи!"
+        "ru": "Улучши печку\nчтобы открыть\nновые этажи!"
     },
     "tutor_step_bonus": {
         "en": "Enjoy the\nbonuses\nto boost your\nprofits and speed!",
-        "ru": "Используй бустеры, чтобы увеличить доходы и ускорить производство!"
+        "ru": "Используй бустеры\nчтобы увеличить\nдоходы и ускорить\nпроизводство!"
     },
     "tutor_step_mill_using_0": {
         "en": "Make sure you\nhave enough flour\nfor bakery! Run\nyour Windmill\nefficiently!",
-        "ru": "Следи за наличием муки! Чем больше запасы, тем выше доходы!"
+        "ru": "Следи за\nналичием муки!\nЧем больше запасы\nтем выше доходы!"
     },
     "tutor_step_mill_using_1": {
         "en": "Spin the sails\nof the windmill\nto accelerate the\nflour production",
-        "ru": "Вращай лопасти мельницы чтобы ускорить производство муки"
+        "ru": "Вращай лопасти\nмельницы чтобы ускорить\nпроизводство муки"
     },
     "tutor_step_reset": {
         "en": "You may reset\nyour production\nline to double\nyour profits!",
-        "ru": "Перезапусти производство и удвой доходы!"
+        "ru": "Перезапусти производство\nи удвой доходы!"
     },
 
     "max_level_reached": {
@@ -58,7 +58,7 @@
     },
     "new_player_level": {
         "en": "New level %val%",
-        "ru": "Новый уровень игрока %val%"
+        "ru": "Новый уровень %val%"
     },
     "instant_profit_bonus": {
         "en": "Watch video\nfor $%val%",
@@ -78,7 +78,7 @@
     },
     "not_enough_money": {
         "en": "Not enough money",
-        "ru": "Недостаточно средств"
+        "ru": "Недостаточно $"
     },
     "plus_profit": {
         "en": "+$%val% profit",
@@ -86,11 +86,11 @@
     },
     "more_flour_needed": {
         "en": "more flour\nneeded",
-        "ru": "необходимо\n больше муки"
+        "ru": "нужно\n больше муки"
     },
     "get_button": {
         "en": "Get",
-        "ru": "Получить"
+        "ru": "Забрать"
     },
     "reward": {
         "en": "reward:",
@@ -102,7 +102,7 @@
     },
     "watch_video_for_x2": {
         "en": "Watch video for x2",
-        "ru": "Посмотри видео за х2"
+        "ru": "Cмотри видео за х2"
     },
     "buy_button": {
         "en": "Buy",
@@ -110,7 +110,7 @@
     },
     "unlock_floor_window_label": {
         "en": "UNLOCK FLOOR",
-        "ru": "РАЗБЛОКИРОВАТЬ ЭТАЖ"
+        "ru": "Открыть этаж"
     },
     "reset_floor_window_label": {
         "en": "RESET FLOOR",
@@ -126,11 +126,11 @@
     },
     "double_profit_window_label": {
         "en": "DOUBLE PROFIT",
-        "ru": "ДВОЙНАЯ ПРИБЫЛЬ"
+        "ru": "Х2 ПРИБЫЛЬ"
     },
     "double_speed_window_label": {
         "en": "DOUBLE SPEED",
-        "ru": "УДВОЕННАЯ СКОРОСТЬ"
+        "ru": "Х2 СКОРОСТЬ"
     },
     "minutes": {
         "en": "%val% min",
@@ -212,7 +212,7 @@
 
     "activate_bonus": {
         "en": "ACTIVATE",
-        "ru": "АКТИВИРОВАТЬ"
+        "ru": "ВКЛЮЧИТЬ"
     }
     
 
