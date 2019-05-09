@@ -1,7 +1,7 @@
 {
     "tutor_step_floor_unlock": {
         "en": "Let’s bake\nsome stuff!\n\nUnlock the\nfloor",
-        "ru": "Давай \nчто-нибудь испечем!\nРазблокируй этаж!"
+        "ru": "Давай что-нибудь\nиспечем!\nРазблокируй этаж!"
     },
     "tutor_step_accelerate_production": {
         "en": "Swipe to\naccelerate\nthe\nproduction!",
@@ -33,7 +33,7 @@
     },
     "tutor_step_reset": {
         "en": "You may reset\nyour production\nline to double\nyour profits!",
-        "ru": "Перезапусти производство\nи удвой доходы!"
+        "ru": "Перезапусти\nпроизводство\nи удвой доходы!"
     },
 
     "max_level_reached": {
