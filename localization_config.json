@@ -54,7 +54,7 @@
     },
     "video_offers_left": {
         "en": "Watch %val% video",
-        "ru": "Посмотри %val% видео"
+        "ru": "Посмотреть %val% видео"
     },
     "new_player_level": {
         "en": "New level %val%",
