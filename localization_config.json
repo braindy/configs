@@ -58,7 +58,7 @@
     },
     "new_player_level": {
         "en": "New level %val%",
-        "ru": "Новый уровень %val%"
+        "ru": "Новый\nуровень %val%"
     },
     "instant_profit_bonus": {
         "en": "Watch video\nfor $%val%",
