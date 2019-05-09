@@ -62,7 +62,7 @@
     },
     "instant_profit_bonus": {
         "en": "Watch video\nfor $%val%",
-        "ru": "Посмотреть видео\nза $%val%"
+        "ru": "Посмотри видео\nза $%val%"
     },
     "instant_flour_bonus": {
         "en": "+%val%%\nflour",
