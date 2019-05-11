@@ -1,0 +1,24 @@
+DefaultCoinsCount - деньги при старте
+DefaultProductionTime - интервал между спавнами партий продукции
+DefaultProductProfit - цены 1 ед. выпечки для каждого этажа
+PriceOfFloorUnlock - цены анлоков этажей
+PriceOfMainFloorUpgrade - цены апгрейдов пекарни
+OffersForFloorUnlock - кол-во реклам для анлока
+FloorMaxLevel - макс. уровен этажа
+ExpToNextLevelConstant, ExpToNextLevelMultiplier - параметры для формулы опыта из баланса
+InstantlyProfitBonusCooldown - перезарядка мыши
+InstantlyProfitBonusSummationTime - время, за которое суммируется прибыль пекарни для формирования бонуса (сек)
+SwipeMultiplierIncRate - насколько сильно свайп влияет на ускорение ленты
+SwipeMultiplierMax - максимальное ускорение ленты
+SwipeMultiplierDecreaseRate - как быстро лента замедляется после свайпа
+OfflineProfitAccumulationPeriod - время, за которое суммируется прибыль пекарни для формирования бонуса в оффлайне (мин) 
+ExtraProfitBonusDuration - продолжительность бонуса (мин)
+ExtraSpeedBonusDuration - продолжительность бонуса (мин)
+ExtraSpeedBonusIconVisibilityDuration - сколько висит предложение взять бонус (сек)
+ExtraSpeedBonusIconVisibilityShowingInterval - через сколько снова показжется бонус (два числа, между ними выбирается случайное)
+DefaultFlourCount - мука при старте
+FloorUpgradePrices - цены апгрейдов для каждого этажа (отсчет с нуля)
+MaxResetsCount - кол-во ресетов
+LevelUpRewards - награды за уровень
+TimeBetweenProdSpawns - время между спавном связок в партии
+DefaultTransporterSpeed - изначальная скорость ленты
