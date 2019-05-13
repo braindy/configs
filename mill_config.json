@@ -1,32 +1,34 @@
 {
-    "flourPerSecConstant": 12,
-    "flourPerSecMultipilier": 1.125,
-    "upgradePriceConstant": 19000,
+    "flourPerSecStartValue": 2,
+    "flourPerSecConstant": 1.2,
+    "flourPerSecMultiplier": 1.09,
+
+    "flourProductionLinearMult": 1.736,
+
+    "upgradePriceConstant": 1900,
     "upgradePriceMultiplier": 2.88,
     "millCapacity" : [
         0,
         200,
-        600,
+        300,
+        500,
         1000,
-        2000,
-        3000,
+        1500,
+        2500,
         5000,
-        10000,
+        12500,
         25000,
+        36000,
         50000,
-        75000,
         100000,
+        150000,
         200000,
-        300000,
-        400000,
-        500000
+        250000
     ],
     "tempStorageFillingTime": 3,
     "InteractionToFlourSpeedMult": 2.83,
     "InteractionToFlourProfitMult": 2.83,
     "InstantFlourProfitBonusCooldownInterval": "50,60",
     "InstantFlourProfitBonusStandingTime": 20,
-    "InstantFlourProfitPercent": 50,
-    
-    "flourProductionLinearMult": 1.736
+    "InstantFlourProfitPercent": 50
 }
