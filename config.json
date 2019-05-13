@@ -130,7 +130,7 @@
         "600000000000000000"
     ],
 
-    "MaxResetsCount": 3,
+    "MaxResetsCount": 5,
 
     "LevelUpRewards": [
         0,
