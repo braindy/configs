@@ -226,74 +226,74 @@
 "ru": "Венские вафли"
     },
     "product_20_name": {
-        "en": "Baguette",
-"ru": "Багет"
+        "en": "French waffles",
+"ru": "Французские вафли"
     },
     "product_21_name": {
-        "en": "Baguette",
-"ru": "Багет"
+        "en": "Biscotti",
+"ru": "Бискотти"
     },
     "product_22_name": {
-        "en": "Baguette",
-"ru": "Багет"
+        "en": "Baklava",
+"ru": "Пахлава"
     },
     "product_23_name": {
-        "en": "Baguette",
-"ru": "Багет"
+        "en": "Cinnamon roll",
+"ru": "Рулет с корицей"
     },
     "product_24_name": {
-        "en": "Baguette",
-"ru": "Багет"
+        "en": "Swiss roll ",
+"ru": "Швейцарский рулет"
     },
     "product_25_name": {
-        "en": "Baguette",
-"ru": "Багет"
+        "en": "Cherry puff",
+"ru": "Вишневая слойка"
     },
     "product_26_name": {
-        "en": "Baguette",
-"ru": "Багет"
+        "en": "Cherry donut",
+"ru": "Вишневый пончик"
     },
     "product_27_name": {
-        "en": "Baguette",
-"ru": "Багет"
+        "en": "Cruller",
+"ru": "Пирожное с глазурью"
     },
     "product_28_name": {
-        "en": "Baguette",
-"ru": "Багет"
+        "en": "Tart",
+"ru": "Ягодное пирожное"
     },
     "product_29_name": {
-        "en": "Baguette",
-"ru": "Багет"      
+        "en": "Chiffon cake",
+"ru": "Торт Шифон"      
     },
     "product_30_name": {
         "en": "Croissant",
         "ru": "Круассан"
     },
-    "product_9_name": {
+    "product_31_name": {
         "en": "Cupcake",
         "ru": "Капкейк"
     },
-    "product_10_name": {
+    "product_32_name": {
         "en": "Donut",
         "ru": "Пончик"
     },
-    "product_11_name": {
+    "product_33_name": {
         "en": "Cherry pie",
         "ru": "Ягодный пирог"
     },
-    "product_12_name": {
+    "product_34_name": {
         "en": "Chocolate cake",
         "ru": "Шоколадный торт"
     },
-    "product_13_name": {
+    "product_35_name": {
         "en": "Cheese cake",
         "ru": "Чизкейк"
     },
-    "product_14_name": {
+    "product_36_name": {
         "en": "Tiramisu",
         "ru": "Тирамису"
     },
-    "product_15_name": {
+    "product_37_name": {
         "en": "Birthday cake",
         "ru": "Праздничный торт"
     },
