@@ -1,5 +1,5 @@
 {
-    "DefaultCoinsCount": 1150,
+    "DefaultCoinsCount": 1200,
     "DefaultProductionTime": [
         0,
         3,
@@ -191,13 +191,13 @@
     "ExpToNextLevelStartValue": 70,
 
     "InstantlyProfitBonusCooldown": 120,
-    "InstantlyProfitBonusSummationTime": 180,
+    "InstantlyProfitBonusSummationTime": 120,
 
     "SwipeMultiplierIncRate": 10,
     "SwipeMultiplierMax": 3.5,
     "SwipeMultiplierDecreaseRate": 3,
     
-    "OfflineProfitAccumulationPeriod": 30,
+    "OfflineProfitAccumulationPeriod": 15,
     
     "ExtraProfitBonusDuration": 5,
     "ExtraSpeedBonusDuration": 3,
@@ -248,7 +248,7 @@
         
     ],
 
-    "MaxResetsCount": 5,
+    "MaxResetsCount": 10,
 
     "LevelUpRewards": [
         0,
