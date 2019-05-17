@@ -218,60 +218,61 @@
 "ru": "Шоколадное печенье"
     },
     "product_18_name": {
+        "en": "Cupcake",
+        "ru": "Капкейк"
+    },
+    "product_19_name": {
         "en": "Blueberry muffin",
 "ru": "Черничный маффин"
     },
-    "product_19_name": {
+    "product_20_name": {
         "en": "Viennese waffle",
 "ru": "Венские вафли"
     },
-    "product_20_name": {
+    "product_21_name": {
         "en": "French waffles",
 "ru": "Французские вафли"
     },
-    "product_21_name": {
+    "product_22_name": {
         "en": "Biscotti",
 "ru": "Бискотти"
     },
-    "product_22_name": {
+    "product_23_name": {
         "en": "Baklava",
 "ru": "Пахлава"
     },
-    "product_23_name": {
+    "product_24_name": {
         "en": "Cinnamon roll",
 "ru": "Рулет с корицей"
     },
-    "product_24_name": {
+    "product_25_name": {
         "en": "Swiss roll ",
 "ru": "Швейцарский рулет"
     },
-    "product_25_name": {
-        "en": "Cherry puff",
-"ru": "Вишневая слойка"
-    },
     "product_26_name": {
-        "en": "Cherry donut",
-"ru": "Вишневый пончик"
-    },
-    "product_27_name": {
-        "en": "Cruller",
-"ru": "Пирожное с глазурью"
-    },
-    "product_28_name": {
-        "en": "Tart",
-"ru": "Ягодное пирожное"
-    },
-    "product_29_name": {
-        "en": "Chiffon cake",
-"ru": "Торт Шифон"      
-    },
-    "product_30_name": {
         "en": "Croissant",
         "ru": "Круассан"
     },
+    "product_27_name": {
+        "en": "Cherry puff",
+"ru": "Вишневая слойка"
+    },
+    "product_28_name": {
+        "en": "Cherry donut",
+"ru": "Вишневый пончик"
+    },
+    "product_29_name": {
+        "en": "Cruller",
+"ru": "Пирожное с глазурью"
+    },
+    "product_30_name": {
+        "en": "Tart",
+"ru": "Ягодное пирожное"
+    },
     "product_31_name": {
-        "en": "Cupcake",
-        "ru": "Капкейк"
+        "en": "Chiffon cake",
+"ru": "Торт Шифон"      
+
     },
     "product_32_name": {
         "en": "Donut",
