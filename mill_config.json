@@ -28,7 +28,7 @@
     ],
     "tempStorageFillingTime": 3,
     "InteractionToFlourSpeedMult": 2.83,
-    "InteractionToFlourProfitMult": 2.83,
+    "InteractionToFlourProfitMult": 3.538,
     "InstantFlourProfitBonusCooldownInterval": "50,60",
     "InstantFlourProfitBonusStandingTime": 20,
     "InstantFlourProfitPercent": 50
