@@ -308,20 +308,20 @@
         "ru": "/с"
     },
     "char_1_name": {
-        "en": "Jakob",
-        "ru": "Якоб"
+        "en": "Jacob",
+        "ru": "Фёдор"
     },
     "char_2_name": {
         "en": "Julia",
-        "ru": "Юля"
+        "ru": "Юлия"
     },
     "char_3_name": {
-        "en": "John",
-        "ru": "Джон"
+        "en": "Jimmy",
+        "ru": "Никита"
     },
     "char_activated": {
-        "en": "Activated",
-        "ru": "Выбран"
+        "en": "Assigned",
+        "ru": "Назначен"
     },
     "speed": {
         "en": "Speed",
@@ -332,7 +332,7 @@
         "ru": "Прибыль"
     },
     "summon": {
-        "en": "Summon",
-        "ru": "Позвать"
+        "en": "Assign",
+        "ru": "Назначить"
     }
 }
