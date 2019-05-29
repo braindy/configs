@@ -35,7 +35,6 @@
         "en": "You may reset\nyour production\nline to double\nyour profits!",
         "ru": "Перезапусти\nпроизводство\nи удвой доходы!"
     },
-
     "max_level_reached": {
         "en": "Max level",
         "ru": "Макс. ур."
@@ -148,7 +147,6 @@
         "en": "OFFLINE PROFIT",
         "ru": "ПРИБЫЛЬ\nВ ОФФЛАЙНЕ"
     },
-
     "product_1_name": {
         "en": "Bun",
         "ru": "Булка"
@@ -179,43 +177,43 @@
     },
     "product_8_name": {
         "en": "Pretzel",
-"ru": "Крендель"
+        "ru": "Крендель"
     },
     "product_9_name": {
         "en": "Chololate Sandwich",
-"ru": "Шоколадный бутерброд" 
+        "ru": "Шоколадный бутерброд"
     },
     "product_10_name": {
         "en": "Wafles",
-"ru": "Вафли"
+        "ru": "Вафли"
     },
     "product_11_name": {
         "en": "Lemon cookie",
-"ru": "Лимонное печенье"
+        "ru": "Лимонное печенье"
     },
     "product_12_name": {
         "en": "Cannoli",
-"ru": "Канноли"
+        "ru": "Канноли"
     },
     "product_13_name": {
         "en": "Shortcake",
-"ru": "Песочное печенье"
+        "ru": "Песочное печенье"
     },
     "product_14_name": {
         "en": "Macaroon",
-"ru": "Макаруни"
+        "ru": "Макаруни"
     },
     "product_15_name": {
         "en": "Oatmeal cookie",
-"ru": "Овсяное печенье"
+        "ru": "Овсяное печенье"
     },
     "product_16_name": {
         "en": "Cream cookie ",
-"ru": "Сливочное печенье"
+        "ru": "Сливочное печенье"
     },
     "product_17_name": {
         "en": "Chocolate cookie",
-"ru": "Шоколадное печенье"
+        "ru": "Шоколадное печенье"
     },
     "product_18_name": {
         "en": "Cupcake",
@@ -223,31 +221,31 @@
     },
     "product_19_name": {
         "en": "Blueberry muffin",
-"ru": "Черничный маффин"
+        "ru": "Черничный маффин"
     },
     "product_20_name": {
         "en": "Viennese waffle",
-"ru": "Венские вафли"
+        "ru": "Венские вафли"
     },
     "product_21_name": {
         "en": "French waffles",
-"ru": "Французские вафли"
+        "ru": "Французские вафли"
     },
     "product_22_name": {
         "en": "Biscotti",
-"ru": "Бискотти"
+        "ru": "Бискотти"
     },
     "product_23_name": {
         "en": "Baklava",
-"ru": "Пахлава"
+        "ru": "Пахлава"
     },
     "product_24_name": {
         "en": "Cinnamon roll",
-"ru": "Рулет с корицей"
+        "ru": "Рулет с корицей"
     },
     "product_25_name": {
         "en": "Swiss roll ",
-"ru": "Швейцарский рулет"
+        "ru": "Швейцарский рулет"
     },
     "product_26_name": {
         "en": "Croissant",
@@ -255,15 +253,15 @@
     },
     "product_27_name": {
         "en": "Cherry puff",
-"ru": "Вишневая слойка"
+        "ru": "Вишневая слойка"
     },
     "product_28_name": {
         "en": "Cherry donut",
-"ru": "Вишневый пончик"
+        "ru": "Вишневый пончик"
     },
     "product_29_name": {
         "en": "Cruller",
-"ru": "Пирожное с глазурью"
+        "ru": "Пирожное с глазурью"
     },
     "product_30_name": {
         "en": "Donut",
@@ -271,11 +269,11 @@
     },
     "product_31_name": {
         "en": "Tart",
-"ru": "Ягодное пирожное"
+        "ru": "Ягодное пирожное"
     },
     "product_32_name": {
         "en": "Chiffon cake",
-"ru": "Торт Шифон"  
+        "ru": "Торт Шифон"
     },
     "product_33_name": {
         "en": "Cherry pie",
@@ -297,12 +295,10 @@
         "en": "Birthday cake",
         "ru": "Праздничный торт"
     },
-
     "activate_bonus": {
         "en": "ACTIVATE",
         "ru": "ВКЛ."
     },
-    
     "unlock_button": {
         "en": "UNLOCK",
         "ru": "ОТКРЫТЬ"
@@ -310,9 +306,33 @@
     "per_sec_postfix": {
         "en": "/S",
         "ru": "/с"
+    },
+    "char_1_name": {
+        "en": "Jakob",
+        "ru": "Якоб"
+    },
+    "char_2_name": {
+        "en": "Julia",
+        "ru": "Юля"
+    },
+    "char_3_name": {
+        "en": "John",
+        "ru": "Джон"
+    },
+    "char_activated": {
+        "en": "Activated",
+        "ru": "Выбран"
+    },
+    "speed": {
+        "en": "Speed",
+        "ru": "Скорость"
+    },
+    "profit": {
+        "en": "Profit",
+        "ru": "Прибыль"
+    },
+    "summon": {
+        "en": "Summon",
+        "ru": "Позвать"
     }
-
-    
-    
-    
 }
