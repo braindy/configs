@@ -340,19 +340,19 @@
         "ru": "Для разблок. требуется %val% этаж"
     },
     "gems_pack_1": {
-        "en": "",
-        "ru": ""
+        "en": "Горсть изумрудов",
+        "ru": "Handful of gems"
     },
     "gems_pack_2": {
-        "en": "",
-        "ru": ""
+        "en": "Кучка изумрудов",
+        "ru": "Pile of gems"
     },
     "gems_pack_3": {
-        "en": "",
-        "ru": ""
+        "en": "Россыпь изумрудов",
+        "ru": "Placer of gems"
     },
     "gems_pack_4": {
-        "en": "",
-        "ru": ""
+        "en": "Мешок изумрудов",
+        "ru": "Big sack of gems"
     }
 }
