@@ -338,5 +338,21 @@
     "floor_required": {
         "en": "Floor %val% required to unlock",
         "ru": "Для разблок. требуется %val% этаж"
+    },
+    "gems_pack_1": {
+        "en": "",
+        "ru": ""
+    },
+    "gems_pack_2": {
+        "en": "",
+        "ru": ""
+    },
+    "gems_pack_3": {
+        "en": "",
+        "ru": ""
+    },
+    "gems_pack_4": {
+        "en": "",
+        "ru": ""
     }
 }
