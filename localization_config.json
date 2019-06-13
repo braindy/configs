@@ -363,4 +363,8 @@
         "en": "Your bakery earned you money while you are away! Collect it along with your daily bonus!",
         "ru": "Ваша Пекарня заработала кучу денег пока вас не было! Соберите деньги и ежедневную награду!"
     },
+    "gems_daily_income": {
+        "en": "daily",
+        "ru": "в день"
+    }
 }
