@@ -354,5 +354,13 @@
     "gems_pack_4": {
         "en": "Мешок изумрудов",
         "ru": "Big sack of gems"
-    }
+    },
+    "push_notification_title": {
+        "en": "Hot bake earned a pile of hot money!",
+        "ru": ""
+    },
+    "push_notification_message": {
+        "en": "Your bakery earned you money while you are away. Collect it now to upgrade your factory!",
+        "ru": ""
+    },
 }
