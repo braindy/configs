@@ -360,7 +360,7 @@
         "ru": ""
     },
     "push_notification_message": {
-        "en": "Your bakery earned you money while you are away. Collect it now to upgrade your factory!",
-        "ru": ""
+        "en": "Your bakery earned you money while you are away! Collect it along with your daily bonus!",
+        "ru": "Ваша Пекарня заработала кучу денег пока вас не было! Соберите деньги и ежедневную награду!"
     },
 }
