@@ -331,6 +331,10 @@
         "en": "Profit",
         "ru": "Прибыль"
     },
+    "offlineprofit": {
+        "en": "Offline profit",
+        "ru": "Оффлайн"
+    },
     "summon": {
         "en": "Assign",
         "ru": "Назначить"
@@ -340,20 +344,20 @@
         "ru": "Для разблок. требуется %val% этаж"
     },
     "gems_pack_1": {
-        "en": "Горсть изумрудов",
-        "ru": "Handful of gems"
+        "ru": "Горсть изумрудов",
+        "en": "Handful of gems"
     },
     "gems_pack_2": {
-        "en": "Кучка изумрудов",
-        "ru": "Pile of gems"
+        "ru": "Кучка изумрудов",
+        "en": "Pile of gems"
     },
     "gems_pack_3": {
-        "en": "Россыпь изумрудов",
-        "ru": "Placer of gems"
+        "ru": "Россыпь изумрудов",
+        "en": "Placer of gems"
     },
     "gems_pack_4": {
-        "en": "Мешок изумрудов",
-        "ru": "Big sack of gems"
+        "ru": "Мешок изумрудов",
+        "en": "Big sack of gems"
     },
     "push_notification_title": {
         "en": "Hot bake earned a pile of hot money!",
@@ -366,5 +370,21 @@
     "gems_daily_income": {
         "en": "daily",
         "ru": "в день"
+    },
+    "gems_count": {
+        "en": "%val% gems",
+        "ru": "%val% изумрудов"
+    },
+    "discount": {
+        "en": "Discount %val%%!",
+        "ru": "Скидка %val%%!"
+    },
+    "daily_award_header": {
+        "en": "Daily award",
+        "ru": "Ежедн. награда"
+    },
+    "award_header": {
+        "en": "Award",
+        "ru": "Награда"
     }
 }
