@@ -108,7 +108,7 @@
     ],
 
     "RewardProbCalculationPeriod": 0.5,
-    "DailyMillGems": 20,
+    "DailyMillGems": 6,
     "RewardMaxProbability": 0.75,
     "RewardItemCoinsSummOfSeconds": 5,
     "GemsDropProbability": 0.1,
