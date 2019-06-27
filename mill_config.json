@@ -111,7 +111,7 @@
     "DailyMillGems": 20,
     "RewardMaxProbability": 0.75,
     "RewardItemCoinsSummOfSeconds": 5,
-    "GemsDropProbability": 0.5,
+    "GemsDropProbability": 0.1,
     "CoinsRewardVolumeVariance": 0.5,
     "WheatComsumptionTime": 20,
     "RewardItemsMaxForce": 280,
