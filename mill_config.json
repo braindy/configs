@@ -107,7 +107,7 @@
         "2.3E+47"
     ],
 
-    "RewardProbCalculationPeriod": 0.5,
+    "RewardProbCalculationPeriod": 2.5,
     "DailyMillGems": 6,
     "RewardMaxProbability": 0.75,
     "RewardItemCoinsSummOfSeconds": 5,
