@@ -112,7 +112,7 @@
     "RewardMaxProbability": 0.75,
     "RewardItemCoinsSummOfSeconds": 5,
     "GemsDropProbability": 0.1,
-    "CoinsRewardVolumeVariance": 0.17,
+    "CoinsRewardVolumeVariance": 0.0289,
     "WheatComsumptionTime": 20,
     "RewardItemsMaxForce": 280,
     "DailyMillVideoBonusGems": 20,
