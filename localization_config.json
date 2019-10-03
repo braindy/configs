@@ -53,11 +53,11 @@
     },
     "video_offers_left": {
         "en": "Watch %val% video",
-        "ru": "Посмотреть %val% видео"
+        "ru": "Смотреть %val% видео"
     },
     "new_player_level": {
         "en": "New level %val%",
-        "ru": "Новый\nуровень %val%"
+        "ru": "Новый уровень %val%"
     },
     "instant_profit_bonus": {
         "en": "Watch video\nfor $%val%",
@@ -108,12 +108,12 @@
         "ru": "Купить"
     },
     "unlock_floor_window_label": {
-        "en": "UNLOCK FLOOR",
+        "en": "Unlock floor",
         "ru": "Открыть этаж"
     },
     "reset_floor_window_label": {
-        "en": "RESET FLOOR",
-        "ru": "ПЕРЕЗАПУСК"
+        "en": "Reset floor",
+        "ru": "Перезапуск"
     },
     "reset_floor_text": {
         "en": "watch video for\nfloor level reset\nand x2 profit",
@@ -124,12 +124,12 @@
         "ru": "Смотреть видео"
     },
     "double_profit_window_label": {
-        "en": "DOUBLE PROFIT",
-        "ru": "Х2 ПРИБЫЛЬ"
+        "en": "Double profit",
+        "ru": "Х2 прибыль"
     },
     "double_speed_window_label": {
-        "en": "DOUBLE SPEED",
-        "ru": "Х2 СКОРОСТЬ"
+        "en": "Double speed",
+        "ru": "Х2 скорость"
     },
     "minutes": {
         "en": "%val% min",
@@ -144,8 +144,8 @@
         "ru": "48 часов"
     },
     "offline_profit_window_label": {
-        "en": "OFFLINE PROFIT",
-        "ru": "ПРИБЫЛЬ\nВ ОФФЛАЙНЕ"
+        "en": "Offline profit",
+        "ru": "Прибыль в оффлайне"
     },
     "product_1_name": {
         "en": "Bun",
@@ -305,7 +305,7 @@
     },
     "per_sec_postfix": {
         "en": "/S",
-        "ru": "/с"
+        "ru": "/c"
     },
     "char_1_name": {
         "en": "Jacob",
@@ -376,8 +376,8 @@
         "ru": "%val% изумрудов"
     },
     "discount": {
-        "en": "Discount %val%%!",
-        "ru": "Скидка %val%%!"
+        "en": "%val%%\nfor free!",
+        "ru": "%val%%\nбесплатно!"
     },
     "daily_award_header": {
         "en": "Daily award",
@@ -386,5 +386,41 @@
     "award_header": {
         "en": "Award",
         "ru": "Награда"
+    },
+    "max_label": {
+        "en": "Max.",
+        "ru": "Макс."
+    },
+    "rate_app": {
+        "en": "Rate app",
+        "ru": "Отзыв"
+    },
+    "rate_app_descr": {
+        "en": "Did you like to run\nmy bakery? How \nwould you rate it?",
+        "ru": "Понравилось управлять\nпекарней? Напиши\nотзыв и поделись\nвпечатлениями!"
+    },
+    "or_open_by_video": {
+        "en": "Or open for free by\nvideo watching",
+        "ru": "Или открыть бесплатно за\nпросмотр видео"
+    },
+    "double_profit_window_descr": {
+        "en": "Double your profits!",
+        "ru": "Удвой всю выручку"
+    },
+    "double_speed_window_descr": {
+        "en": "Double your production speed",
+        "ru": "Удвой скорость производства"
+    },
+    "super_booster": {
+        "en": "Super booster!",
+        "ru": "Супер бустер!"
+    },
+    "characters_window_header": {
+        "en": "Bakers",
+        "ru": "Пекари"
+    },
+    "gems_shop": {
+        "en": "Gems shop",
+        "ru": "Магазин"
     }
 }
