@@ -105,17 +105,5 @@
         "1.1E+45",
         "1.6E+46",
         "2.3E+47"
-    ],
-
-    "RewardProbCalculationPeriod": 2.5,
-    "DailyMillGems": 6,
-    "RewardMaxProbability": 0.75,
-    "RewardItemCoinsSummOfSeconds": 5,
-    "GemsDropProbability": 0.1,
-    "CoinsRewardVolumeVariance": 0.0289,
-    "WheatComsumptionTime": 20,
-    "RewardItemsMaxForce": 280,
-    "DailyMillVideoBonusGems": 20,
-    "GemsPerVideoBonus": 2,
-    "MinutesToWheatReset": 0.33
+    ]
 }
