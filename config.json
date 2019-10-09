@@ -284,7 +284,7 @@
     "ExpToNextLevelConstant": 50,
     "ExpToNextLevelMultiplier": 1.18,
     "ExpToNextLevelStartValue": 70,
-    "InstantlyProfitBonusCooldown": 120,
+    "InstantlyProfitBonusCooldown": 60,
     "InstantlyProfitBonusSummationTime": 120,
     "SwipeMultiplierIncRate": 10,
     "SwipeMultiplierMax": 3.5,
