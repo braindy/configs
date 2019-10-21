@@ -289,6 +289,7 @@
     "SwipeMultiplierIncRate": 10,
     "SwipeMultiplierMax": 3.5,
     "SwipeMultiplierDecreaseRate": 3,
+    "SwipeSlowDownTime": 4,
     "OfflineProfitAccumulationPeriod": 5,
     "ExtraProfitBonusDuration": 5,
     "ExtraSpeedBonusDuration": 3,
